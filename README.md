@@ -17,3 +17,6 @@ Change the stream directory variable to a location on your system (worth creatin
 In the directory, create a text file called last_processed.txt and save a numerical value of zero in the file
 
 I'm not too sure how secure any of it is with regards to how username and passwords are transmitted/stored - use at your own risk
+
+
+Set up a cron job to run this script every 5 or 10 minutes, so the sync is done automatically.
