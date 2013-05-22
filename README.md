@@ -6,9 +6,9 @@ Uploads Strava ride to Garmin Connect
 
 Ensure all required dependencies are installed
 
-Go to http://sourceforge.net/projects/gcpuploader/ and download #the zip file. Follow instructions in README file. Once that is done, change directory in the Garmin section of this script (at #the end/bottom) to where those files have been extracted to.
+Go to http://sourceforge.net/projects/gcpuploader/ and download #the zip file. Follow instructions in README file. Once that is done, change directory in the Garmin section of this script (at the end/bottom) to where those files have been extracted to.
 
-Login to Strava in web browser, go to your profile page and copy #the ~6 digit number from the web address, which is your athlete #ID - enter this within the quotes below. Also enter your Strava #username and password - this will be used to download the GPX #file.
+Login to Strava in web browser, go to your profile page and copy the ~6 digit number from the web address, which is your athlete ID - enter this within the quotes below. Also enter your Strava #username and password - this will be used to download the GPX #file.
 
 Enter your Garmin Connect login details - this will be used to upload the GPX file to Garmin.
 
